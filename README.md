@@ -57,6 +57,12 @@ git push -u origin main
 
 That's it — once pushed your repository will be available on GitHub.
 
+## License
+
+This project (the source code) is licensed under the MIT License. When you create the remote repository on GitHub, please add a `LICENSE` file containing the standard MIT text (replace the copyright line with your name and year).
+
+If you want specific rules for art/sound assets, consider licensing those assets separately (for example: CC0 for public-domain assets or CC BY 4.0 if you want attribution).
+
 ## Game Rules
 - Control the bird to fly between the pipes
 - Don't hit the pipes or the ground
