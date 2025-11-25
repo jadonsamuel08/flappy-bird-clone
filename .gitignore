@@ -1,0 +1,15 @@
+# Local save fallbacks (legacy)
+saved_coins.txt
+owned_skins.txt
+current_skin.txt
+high_score.txt
+
+# Local per-user DBs or temporary DB files
+*.db
+game.db
+flappy_bird_clone/
+
+# Pygame/IDE artifacts
+__pycache__/
+*.pyc
+.vscode/
